@@ -19,14 +19,11 @@ FIRST Download
 
 6. Import dbfix.sql file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/Repair_Shop_Management_System
+7.Run the script http://localhost/fix
 
 
 **LOGIN DETAILS** 
 
 Admin
-user: demo@demo.com
-pass: demo
-
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
+user: amrit@dsmnru.com
+pass: amrit
